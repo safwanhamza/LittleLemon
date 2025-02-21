@@ -1,5 +1,7 @@
-# DineWise
-DineWise is a one stop application for food businesses offering various functionalities like bookings, offered menus and associated price listings typically offered by food businesses.
+# Little Lemon
+Tt is a one stop application for food businesses offering various functionalities like bookings, offered menus and associated price listings typically offered by food businesses.
+
+
 
 
 ## Steps to run the app
