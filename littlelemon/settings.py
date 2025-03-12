@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'restaurant',
-    'rest_framework',
+    'rest_framework', #Restful API Services
     'rest_framework.authtoken',
     'djoser',
 ]
